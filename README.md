@@ -1,7 +1,7 @@
 # Horiseon-Semantics
 ## 01 HTML, CSS, and GIT: Code Refractor Assignment
 
-![Horiseon Logo](.)
+![Horiseon Logo](/assets/images/Hoiseon-logo)
 
 ### Project Description:
 The goal of the assignment was to refract the code to ensure: 
