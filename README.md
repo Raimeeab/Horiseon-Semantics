@@ -5,7 +5,7 @@
 # Horiseon-Semantics
 ---
 
-![Horiseon Logo](assets/images/Horiseon-logo.jpg)
+![HoriseonLogo](assets/images/Horiseon-logo.jpg)
 
 ## Description
 - My motivation is to be more inclusive to people with disability 
@@ -15,11 +15,13 @@
 
 Link to the [site](https://raimeeab.github.io/horiseon-semantics/)
 
+![HoriseonApp](assets/images/app-demo.png)
+
 ## Technologies Used
 HTML and basic CSS
 
 ## Usage
-The nav elements allows you to navigate the website sections  
+The nav elements allows you to navigate the website sections. 
 
 ## Contributors
 *The Univserity of Sydney | Trilogy Education Services*
